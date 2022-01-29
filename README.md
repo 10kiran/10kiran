@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @10kiran
+- 👀 I’m interested in Data Visualization
+- 🌱 I’m currently learning Data science
